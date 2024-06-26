@@ -7,3 +7,4 @@ langchain
 langchain-openai
 PyMuPDF
 requests
+fastapi-cors
