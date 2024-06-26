@@ -50,7 +50,7 @@ ai-planet-be/
 
 ```bash
 git clone https://github.com/AI-planet-Project/ai-planet-backend.git
-cd ai-planet-be
+cd ai-planet-backend
 ```
 
 ### 2. Create and Activate a Virtual Environment
